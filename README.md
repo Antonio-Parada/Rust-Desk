@@ -8,4 +8,4 @@ This project aims to provide clear, step-by-step guides for deploying RustDesk f
 
 ## Current Guides
 
-*   **[Arch Linux / Omarchy Linux with Docker](https://github.com/Antonio-Parada/Rust-Desk/blob/Omarchy-Arch/RUSTDESK_SERVER_ARCH_LINUX.md)**: A detailed guide for setting up the RustDesk server in a Docker container on an Arch-based Linux system. (Maintained in the `Omarchy-Arch` branch).
+*   **[Arch Linux / Omarchy Linux with Docker](https://github.com/Antonio-Parada/Rust-Desk/blob/guide/omarchy-arch/RUSTDESK_SERVER_ARCH_LINUX.md)**: A detailed guide for setting up the RustDesk server in a Docker container on an Arch-based Linux system. (Maintained in the `guide/omarchy-arch` branch).
